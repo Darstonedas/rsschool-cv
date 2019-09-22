@@ -28,7 +28,7 @@ Unfortunately, I am only new to development and I have no experience working on 
 
 Education
 
-Codecademy courses
+[Codecademy](https://www.codecademy.com/) courses:
 
 * [Introduction in HTML](https://www.codecademy.com/learn/learn-html)
 
@@ -36,4 +36,8 @@ Codecademy courses
 
 * [Learn Git](https://www.codecademy.com/learn/learn-git)
 
-[Link to my Codecademy profile](https://www.codecademy.com/profiles/Darstone)
+Link to my Codecademy [profile](https://www.codecademy.com/profiles/Darstone)
+
+Knowledge of languages
+
+My native language is Belarusian and Russian. I studied English at school and do not have any practice using it. I did not pass special tests to determine my knowledge, but I think that they are at the level of understanding.
