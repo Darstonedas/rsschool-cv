@@ -21,3 +21,19 @@ I am new to development, but this direction has always been interesting to me. I
 HTML| Novice
 CSS | Novice
 JavaScript | Novice
+
+Experience
+
+Unfortunately, I am only new to development and I have no experience working on projects.
+
+Education
+
+Codecademy courses
+
+* [Introduction in HTML](https://www.codecademy.com/learn/learn-html)
+
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
+
+* [Learn Git](https://www.codecademy.com/learn/learn-git)
+
+[Link to my Codecademy profile](https://www.codecademy.com/profiles/Darstone)
