@@ -1,32 +1,33 @@
 # Curriculum Vitae
-Dzikovich Aliaksandr
+#### Dzikovich Aliaksandr
 
-phone num. +375(29)529-05-05
+**phone num.** +375(29)529-05-05
 
-e-mail: sasha.alukard@gmail.com
+**e-mail**: sasha.alukard@gmail.com
 
-Skype ID: daleksandrs
+**Skype ID**: daleksandrs
 
-Summary
+### Summary
 
 
-I am new to development, but this direction has always been interesting to me. I am ready to learn new things and improve myself. I always try to find a solution to the task and my perseverance helps me.
+*I am new to development, but this direction has always been interesting to me. I am ready to learn new things and improve myself. I always try to find a solution to the task and my perseverance helps me.*
 
- I hope to become an experienced specialist in this field.
+ *I hope to become an experienced specialist in this field.*
 
- Skills
 
- Skills | Level
- -------|-------
+### Skills
+
+Skills | Level
+-------|-------
 HTML| Novice
 CSS | Novice
 JavaScript | Novice
 
-Experience
+### Experience
 
 Unfortunately, I am only new to development and I have no experience working on projects.
 
-Education
+### Education
 
 [Codecademy](https://www.codecademy.com/) courses:
 
@@ -38,6 +39,6 @@ Education
 
 Link to my Codecademy [profile](https://www.codecademy.com/profiles/Darstone)
 
-Knowledge of languages
+### Knowledge of languages
 
 My native language is Belarusian and Russian. I studied English at school and do not have any practice using it. I did not pass special tests to determine my knowledge, but I think that they are at the level of understanding.
